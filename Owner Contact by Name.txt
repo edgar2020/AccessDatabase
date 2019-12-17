@@ -1,0 +1,61 @@
+
+ Owner Contact by Name
+
+
+
+
+
+  Owner First Name      Owner Last Name         Owner Street Address        Owner City      State          Owner Home Phone             Mobile Phone         Email Address
+                                                                                                      Postal Code
+  Cyrus                  Kramer                 284 Hilltop Circle          Bainbridge      UT              82245435-555-6547           435-555-8854
+
+  Ian                    Kaufman                3 Hanover Park              Dolores         CO              82323719-555-4234           719-555-8874
+
+
+  Liz                    O'Brian                13 Griffiths Drive          Dunning         CO              89665719-555-6968           719-555-6798
+
+
+  Ryan                   Kraud                  334 Old Farms Road          Dvon            CO              88447719-555-1478           719-333-6932
+
+  Samira                 Patel                  76 Jenkins Way              Westover        UT              85545435-555-9865           435-555-8001
+
+  Steven                 Nguyen                 9874 South Main Street      Blanding        UT              84511435-991-5670           435-777-6219         snguyen@newmail.com
+
+
+  Ted                    Sabus                  450 West Pioneer Road       Dolores         CO              11323719-211-4411           719-888-7735         tsabus@newmail.com
+
+
+  Tiffanie               DiFranco               34435 Keller Way            Winston         UT              82154435-555-9135           435-555-0021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tuesday, December 17, 2019                                                                                                 Page 1 of 1
+

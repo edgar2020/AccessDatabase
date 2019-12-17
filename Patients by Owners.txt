@@ -1,0 +1,81 @@
+
+ Patients by Owners
+
+
+
+    Owner Last Name         Owner First Name         Patient Name         Animal Type         Breed
+    DiFranco                Tiffanie                 Hooper               Canine              Terrier
+
+                                                     Oliver               Feline              Tabby
+
+    Kaufman                 Ian                      Milo                 Canine              Beagle
+
+    Kraud                   Ryan                     Millie               Canine              Mixed
+
+    Nguyen                  Steven                   Paws                 Feline              Calico
+
+                                                     Pepper               Canine              Weimaraner
+
+    O'Brian                 Liz                      Elvis                Feline              Siamese
+    Patel                   Samira                   Max                  Feline              Mixed
+
+    Sabus                   Ted                      Chloe                Feline              Calico
+
+                                                     Fluffy               Feline              Tabby
+
+                                                     Ranger               Canine              Labrador
+
+                                                     Skippy               Feline              Mixed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tuesday, December 17, 2019                                                                                                         Page 1 of 1
+

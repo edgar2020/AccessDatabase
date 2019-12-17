@@ -1,0 +1,61 @@
+
+ Veterinarians by State
+
+
+
+
+
+    State     Street Address    City            ZIP Code   First Name            Last Name          Office Phone              Cell Phone               Email Address
+
+    CO
+
+              1334 Hillary      Centerville        80012   Mia                   Rahn-Lee           719-555-8254              719-555-8462             Mrahn-lee@cengage.com
+
+              9887 Dover        Dolores            81323   William               Black              719-334-9856              719-334-6682             wblack@newmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tuesday, December 17, 2019                                                                                                     Page 1 of 1
+

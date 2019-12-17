@@ -1,0 +1,81 @@
+
+ Treatments Less than or Equal to $20
+
+
+
+
+
+    Cost                              Treatment                                               Animal Type
+
+                             $10
+
+                                      Microchip                                               Canine
+
+                                      Microchip                                               Feline
+
+                             $18
+
+                                      Feline Rabies Shot                                      Feline
+
+
+                             $20
+
+                                      Heartworm                                               Feline
+
+                                      Dog Rabies Shot                                         Canine
+
+                                      Wellness Exam                                           Feline
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tuesday, December 17, 2019                                                                                                         Page 1 of 1
+
